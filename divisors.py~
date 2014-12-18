@@ -1,0 +1,7 @@
+print("please type a number: ")
+n=input()
+x=1
+for number in range(n):
+	print(x)
+	x=x+1
+
